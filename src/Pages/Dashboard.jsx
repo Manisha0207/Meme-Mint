@@ -19,7 +19,12 @@ function DashboardPage(){
                         <WordRevealText text="It’s your personal playground for dangerously underpaid comedians (yes, we're talking about you). Caption chaos, distort logic, and launch your wildest creations into the universe — or just into your group chat" className="img-text" />
                     </div>
                 </div>
-                <button className="btn start-button mt-4"
+                <button 
+                style={{
+                    display: 'flex',
+                    justifyContent: 'center',
+                }}
+                className="btn start-button mt-4"
                 onClick={()=>navigate('/home')}>Start Creating</button>
                 <p
                 style={{
@@ -38,8 +43,10 @@ function DashboardPage(){
                 <button className="btn start-button mt-3" 
                 style={{
                     // paddingTop:'10px',
-                    alignContent:'center',
-                    marginLeft:'635px',
+                    // alignContent:'center',
+                    // marginLeft:'635px',
+                    display: 'flex',
+                     justifyContent: 'center',
                 }}
                 onClick={() => navigate('/quiz')}>
                 Take a Meme Quiz
