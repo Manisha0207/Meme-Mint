@@ -1,0 +1,604 @@
+{
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the &quot;Toaru Majutsu no Index&quot; anime, Touma Kamijou is a level 0 esper that has the ability to do what?",
+        "correct_answer": "Dispell any esper or magical powers",
+        "incorrect_answers": [
+          "Teleport",
+          "Make telepathic communications",
+          "Create electricity from his own body"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+        "correct_answer": "Air",
+        "incorrect_answers": [
+          "The Schwartz",
+          "Princess Lonestar",
+          "Meatballs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+        "correct_answer": "Ewan McGregor",
+        "incorrect_answers": [
+          "Alec Guinness",
+          "Hayden Christensen",
+          "Liam Neeson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "In &quot;Gravity Falls&quot;, what does Quentin Trembley do when he is driven out from the White House?",
+        "correct_answer": "Eat a salamander and jump out the window.",
+        "incorrect_answers": [
+          "Leave in peace.",
+          "Jump out the window.",
+          "Release 1,000 captive salamanders into the white house."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which band had hits in 1972 with the songs &quot;Baby I&#039;m A Want You&quot;, &quot;Everything I Own&quot; and &quot;The Guitar Man&quot;",
+        "correct_answer": "Bread",
+        "incorrect_answers": [
+          "America",
+          "Chicago",
+          "Smokie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Sid Meier&#039;s Civilization V, which World Wonder can only be built in cities on or next to a desert?",
+        "correct_answer": "Petra",
+        "incorrect_answers": [
+          "The Pyramids",
+          "Alhambra",
+          "Mausoleum of Maussollos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "What was the name of the planet in &quot;Aliens&quot;?",
+        "correct_answer": "LV-426",
+        "incorrect_answers": [
+          "Weyland Yutani Corporation Base",
+          "FR-838",
+          "DI-621"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Comics",
+        "question": "What was the name of the first Robin in the Batman comics?",
+        "correct_answer": "Dick Grayson",
+        "incorrect_answers": [
+          "Bruce Wayne",
+          "Jason Todd",
+          "Tim Drake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Books",
+        "question": "In Rudyard Kipling&#039;s &quot;The Jungle Book&quot;, what type of snake was Kaa?",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+          "Cobra",
+          "Anaconda",
+          "Viper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+        "correct_answer": "Shamshi-Adad III",
+        "incorrect_answers": [
+          "Shalmaneser V",
+          "Esharhaddon",
+          "Ashur-nasir-pal II"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Highschool of the Dead&quot;, where did Komuro and Saeko establish to meet after the bus explosion?",
+        "correct_answer": "Eastern Police Station",
+        "incorrect_answers": [
+          "The Center Mall",
+          "Komuro&#039;s House",
+          "On The Main Bridge"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which of the following is NOT a Russian car manufacturer?",
+        "correct_answer": "BYD",
+        "incorrect_answers": [
+          "Silant",
+          "Dragon",
+          "GAZ"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Overwatch&quot;, which hero is able to wallride?",
+        "correct_answer": "Lucio",
+        "incorrect_answers": [
+          "Reinhardt",
+          "Sombra",
+          "Mercy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+        "correct_answer": "The Prince",
+        "incorrect_answers": [
+          "The Rape of Lucrece",
+          "Will to Power",
+          "Love&#039;s Labours Lost"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?",
+        "correct_answer": "Major Fraud",
+        "incorrect_answers": [
+          "Ingram Cheater",
+          "Coughing Major",
+          "Millionaire Crime"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+        "correct_answer": "Inuktitut",
+        "incorrect_answers": [
+          "Inuinnaqtun",
+          "Greenlandic",
+          "Inupiat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+        "correct_answer": "Gordon Shumway",
+        "incorrect_answers": [
+          "Gordon Milipp",
+          "Gordon Foster",
+          "Gordon von Gam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Music",
+        "question": "Which of these is the name of a song by Tears for Fears?",
+        "correct_answer": "Shout",
+        "incorrect_answers": [
+          "Scream",
+          "Yell",
+          "Shriek"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main villain in Bendy and the ink machine?",
+        "correct_answer": "Bendy",
+        "incorrect_answers": [
+          "Joey Drew",
+          "Alice",
+          "Boris"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "One of the early prototypes of the Sega Dreamcast controller resembled which of the following?",
+        "correct_answer": "Television Remote",
+        "incorrect_answers": [
+          "Tablet",
+          "Hairdryer",
+          "Flip Phone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which company is the one responsible for creating the strategy videogame Stellaris?",
+        "correct_answer": "Paradox Development Studio",
+        "incorrect_answers": [
+          "Overkill Software",
+          "Tripwire Interactive LLC",
+          "Ensemble Studios"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+        "correct_answer": "Amazon",
+        "incorrect_answers": [
+          "eBay",
+          "Overstock",
+          "Shopify"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Film",
+        "question": "In Youtuber Jerma985&#039;s 2014 film &quot;Rat Movie: Mystery of the Mayan Treasure,&quot; who is the man who tries to steal the Mayan Treasure?",
+        "correct_answer": "Dick Dastardly Richards",
+        "incorrect_answers": [
+          "Gabe &quot;The Glue Man&quot; Degrossi",
+          "Bootleg Duck Dynasty Byeah Batman",
+          "Demon Lord Zeraxos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+        "correct_answer": "Edward &quot;Whitebeard&quot; Newgate",
+        "incorrect_answers": [
+          "Former Marine Fleet Admiral Sengoku",
+          "Pirate King Gol D Roger",
+          "Silvers Rayleigh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "2005",
+          "2003",
+          "2006"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which character does voice actress Tara Strong NOT voice?",
+        "correct_answer": "Bubbles (2016)",
+        "incorrect_answers": [
+          "Twilight Sparkle",
+          "Timmy Turner",
+          "Harley Quinn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?",
+        "correct_answer": "Elizabeth Midford",
+        "incorrect_answers": [
+          "Rachel Phantomhive",
+          "Alexis Leon Midford",
+          "Angelina Dalles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which country was NOT part of the Soviet Union?",
+        "correct_answer": "Romania",
+        "incorrect_answers": [
+          "Turkmenistan",
+          "Belarus",
+          "Tajikistan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What team won the 2016 MLS Cup?",
+        "correct_answer": "Seattle Sounders",
+        "incorrect_answers": [
+          "Colorado Rapids",
+          "Toronto FC",
+          "Montreal Impact"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Gadgets",
+        "question": "The term &quot;battery&quot; to describe an electrical storage device was coined by?",
+        "correct_answer": "Benjamin Franklin",
+        "incorrect_answers": [
+          "Nikola Tesla",
+          "Luigi Galvani",
+          " Alessandro Volta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the hottest planet in the Solar System?",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+          "Mars",
+          "Mercury",
+          "Jupiter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Board Games",
+        "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
+        "correct_answer": "20",
+        "incorrect_answers": [
+          "30",
+          "15",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What was the first game to utilize Valve&#039;s &quot;Source 2&quot; engine?",
+        "correct_answer": "Dota 2",
+        "incorrect_answers": [
+          "Counter-Strike: Global Offensive",
+          "Pirates, Vikings &amp; Knights II",
+          "Artifact"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+        "correct_answer": "Enkidu",
+        "incorrect_answers": [
+          "Enki",
+          "Enlil",
+          "Enkimdu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science &amp; Nature",
+        "question": "The medial meniscus forms which part of what joint in the human body?",
+        "correct_answer": "Knee",
+        "incorrect_answers": [
+          "Elbow",
+          "Ankle",
+          "Shoulder"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
+        "correct_answer": "Bloodstar",
+        "incorrect_answers": [
+          "Sachs",
+          "Dracuul",
+          "Alucard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "According to the lore of &quot;Starbound&quot;, what does the &quot;Colony Deed&quot; do when it is placed down?",
+        "correct_answer": "Sends out an advertisement for someone to move in.",
+        "incorrect_answers": [
+          "Teleports somebody from somewhere on the planet it is placed.",
+          "Teleports a random person to the location.",
+          "Materializes a new being at it&#039;s location."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What is the most common climbing route for the second highest mountain in the world, K2?",
+        "correct_answer": "Abruzzi Spur",
+        "incorrect_answers": [
+          "Magic Line",
+          "Cesen Route",
+          "Polish Line"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What is the name of Funny Valentine&#039;s stand in Jojo&#039;s Bizarre Adventure Part 7, Steel Ball Run?",
+        "correct_answer": "Dirty Deeds Done Dirt Cheap",
+        "incorrect_answers": [
+          "Filthy Acts Done For A Reasonable Price",
+          "Civil War",
+          "God Bless The USA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Film",
+        "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+        "correct_answer": "Guys and Dolls",
+        "incorrect_answers": [
+          "Anchors Aweigh",
+          "From Here to Eternity",
+          "High Society"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?",
+        "correct_answer": "Warriors of Hope",
+        "incorrect_answers": [
+          "The Monokubs",
+          "Warriors of Despair",
+          "The Ultimate Despair"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Etihad Stadium is the home stadium for which team?",
+        "correct_answer": "Manchester City",
+        "incorrect_answers": [
+          "Manchester United",
+          "Arsenal",
+          "Blackpool"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Mirror&#039;s Edge Catalyst takes place in the City of...?",
+        "correct_answer": "Glass",
+        "incorrect_answers": [
+          "Mirrors",
+          "Purity",
+          "Diamonds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Books",
+        "question": "In which classic novel is there a character named Homer Simpson?",
+        "correct_answer": "The Day of the Locust",
+        "incorrect_answers": [
+          "Catch-22",
+          "Of Mice and Men",
+          "A Separate Peace"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How old was Adolf Hitler when he died?",
+        "correct_answer": "56",
+        "incorrect_answers": [
+          "43",
+          "65",
+          "47"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+        "correct_answer": "Carbon",
+        "incorrect_answers": [
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Who is the main character in the video game &quot;Just Cause 3&quot;?",
+        "correct_answer": "Rico Rodriguez",
+        "incorrect_answers": [
+          "Tom Sheldon",
+          "Marcus Holloway",
+          "Mario Frigo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+        "correct_answer": "New Mexico",
+        "incorrect_answers": [
+          "Washington",
+          "Colorado",
+          "Arizona"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+        "correct_answer": "Megatron Griffin",
+        "incorrect_answers": [
+          "Who-Cares Griffin",
+          "Neil Griffin",
+          "Megan Griffin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Board Games",
+        "question": "The Dice Tower network of board game podcasts and videos is run by which individual?",
+        "correct_answer": "Tom Vasel",
+        "incorrect_answers": [
+          "Jason LeVine",
+          "Borth Sampson",
+          "Uncle Pennybags"
+        ]
+      }
+    ]
+  }

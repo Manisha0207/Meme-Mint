@@ -1,0 +1,29 @@
+/* .btn{
+    display: inline-block;
+    border: 4px solid #34495e;
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    color: white;
+} */
+
+.btn {
+    display: inline-block;
+    border: 4px solid #34495e;
+    color: #34495e;
+    background-color: white;
+    font-size: 20px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    width: 100%;
+    max-width: 300px;
+    margin: 10px auto;
+}
+
+.btn:hover {
+    background-color: #34495e;
+    color: white;
+    cursor: pointer;
+}
