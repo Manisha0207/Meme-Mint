@@ -65,6 +65,7 @@ function EditPage() {
       <div className="button-row mt-4">
 
       <Button className="btn" style={{
+        textDecoration:'none',
         backgroundColor:'#4a4a4a',
         text:'white',
         marginLeft:'20px',

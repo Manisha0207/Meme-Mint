@@ -4,7 +4,6 @@ import { getAllMemes } from '../Api/memes';
 import AnimatedPage from '../Components/Animated';
 import { Container, Row, Col } from 'react-bootstrap';
 
-// Ensure bootstrap CSS imported in app root
 
 function Homepage() {
     const [data, setData] = useState([]);

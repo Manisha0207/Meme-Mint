@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 // import quizData from "../data/quizData.json";
 import "./quiz.css"
+import { useNavigate } from 'react-router-dom';
 
 function QuizPage() {
   const [questions, setQuestions] = useState([]);
@@ -9,6 +10,8 @@ function QuizPage() {
   const [score, setScore] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  const navigate = useNavigate();
 
   useEffect(() => {
     fetch('/data/quizData.json')
@@ -75,6 +78,18 @@ function QuizPage() {
         <h4 style={{
             color:'#2c3e50',
         }}>Your Score: {score} / {questions.length}</h4>
+
+        <h3 style={{
+          marginTop:'30px',
+          color:'#4a4a4a',
+        }}>Want to go to your dashboard? Click below.</h3>
+
+        <button
+          className="btn"
+          onClick={() => navigate('/')}
+        >
+          Home
+        </button>
       </div>
     );
   }
@@ -88,7 +103,7 @@ function QuizPage() {
       style={{
         marginTop:'20px',
         marginBottom:'20px',
-        color:'#2c3e50',
+        // color:'#2c3e50',
       }}>{question.question}</h2>
       <div className="d-flex flex-column align-items-center">
             {question.options.map((opt, i) => (
@@ -96,7 +111,7 @@ function QuizPage() {
                 key={i}
                 className="btn m-3"
                 style={{
-                    color:'#3498db',
+                    // color:'#3498db',
                 }}
                 onClick={() => handleAnswer(opt)}
             >

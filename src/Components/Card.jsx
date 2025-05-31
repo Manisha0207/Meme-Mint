@@ -23,12 +23,22 @@ function MemeCard(props){
                     textAlign:'center',
                 }}>{props.title}</Card.Title>
                 <Button style={{
-                    backgroundColor: '#4a4a4a',
-                    color: 'white',
-                    textAlign:'center',
-                    marginLeft:'35%',
-                    marginTop:'10px',
-                    border:'3px solid #A9A9A9'
+                    // backgroundColor: '#4a4a4a',
+                    // color: 'white',
+                    // textAlign:'center',
+                    // marginLeft:'35%',
+                    // marginTop:'10px',
+                    // 
+                    padding: '6px 12px',
+                    fontSize: '1.1rem',
+                    borderRadius: '6px',
+                    backgroundColor: 'white',
+                    color: '#34495e',
+                    border:'3px solid #A9A9A9',
+                    transition: 'all 0.3s ease',
+                    display: 'block',
+                    margin: '10px auto', 
+                    width: 'fit-content', 
                 }}
                 onClick={e => navigate(`/edit?url=${props.img}`)} variant="primary">
                     Edit

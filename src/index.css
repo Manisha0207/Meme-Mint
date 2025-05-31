@@ -20,3 +20,8 @@ body {
         background-position: 0% 50%;
     }
 }
+
+button:hover{
+    color:#fad0c4;
+    background-color: #fbc2eb;
+}
